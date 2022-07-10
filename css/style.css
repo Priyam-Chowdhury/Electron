@@ -530,7 +530,8 @@ footer a i{
 #copyright i{
     color: #0a0c18;
     font-size: 4rem;
-    margin-right: 2rem;
+    margin-right: 1rem;
+    margin-left: 1rem;
 }
 #copyright p{
     margin-top: 4rem;
